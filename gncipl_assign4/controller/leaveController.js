@@ -1,5 +1,5 @@
 import LeaveRequest from '../models/Leave.js';
-import User from '../models/user.js';
+import User from '../models/User.js';
 
 const applyLeave = async (req, res) => {
   try {
